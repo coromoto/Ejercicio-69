@@ -1,0 +1,40 @@
+El cortijo
+Bartolome Cairasco, 100
+10
+andaluza
+Tasca Sin Freno
+Av. de la Candelaria, 8
+20
+canaria
+Guaydil
+Dean Palahi, 26
+30
+internacional
+Tasca Viana
+Viana, 35
+35
+internacional
+Rincon Gomero
+Camino Rodeo Alto, 18
+20
+gomera
+Patio Canario
+Manuel de Ossuna, 8
+25
+canaria
+Libanes Malak
+Pablo Iglesias, 11
+30
+linanesa
+Diablito
+Marques de Celada, 70
+20
+italiana
+La Hoya del Camello
+Carretera General del Norte, 128
+30
+internacional
+Tasca El Tonique
+Heraclio Sánchez, 23
+30
+internacional
